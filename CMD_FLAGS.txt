@@ -1,3 +1,5 @@
 # Only used by the one-click installer.
 # Example:
 # --listen --api
+--api
+--model "Meta-Llama-3-8B-Instruct-Q8_0.gguf"
